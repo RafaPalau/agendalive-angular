@@ -1,0 +1,13 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar {
+  font-size: 1.5rem;
+  height: 80px;
+}
+.toolbar > span {
+  display: flex;
+  align-items: center;
+ 
+}
